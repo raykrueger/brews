@@ -53,3 +53,14 @@ body {
 p.indented {
   text-indent: 1.0em;
 }
+
+td {
+  padding-right: 10px;
+}
+
+p.note {
+  background: {
+    color: rgba(245,245,255, 0.9);
+  }
+  @include rounded;
+}
