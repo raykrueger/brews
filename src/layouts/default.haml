@@ -1,0 +1,14 @@
+!!!
+%html
+  %head
+    %title Brewing Notes by Ray Krueger
+    %meta{:name => "viewport", :content => "width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"}
+    = stylesheets :screen, :media => "screen"
+    = stylesheets :iphone, :media => "only screen and (max-device-width: 480px)"
+  %body
+    #site
+      #header
+        %h1 My Brewing Notes
+      #main
+        #content
+          = yield
