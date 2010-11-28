@@ -19,7 +19,7 @@ body {
   }
   font: {
     family: helvetica, arial, freesans, clean, sans-serif;
-    size: 13pt;
+    size: 12pt;
   }
 }
 
@@ -30,7 +30,6 @@ body {
   margin: {
     bottom: 10px;
   }
-  font-size: 12pt;
 }
 
 #main {
@@ -42,11 +41,11 @@ body {
 }
 
 #content {
+  width: 95%;
+  margin: 0px auto;
   padding: {
     top: 5px;
     bottom: 5px;
-    left: 20px;
-    right: 20px;
   }
 }
 
@@ -58,9 +57,3 @@ td {
   padding-right: 10px;
 }
 
-p.note {
-  background: {
-    color: rgba(245,245,255, 0.9);
-  }
-  @include rounded;
-}
