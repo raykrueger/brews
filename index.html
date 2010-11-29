@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>Brewing Notes by Ray Krueger</title>
+    <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="/stylesheets/iphone.css" media="only screen and (max-device-width: 480px)" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <div id='site'>
+      <div id='header'>
+        <h1>My Brewing Notes</h1>
+      </div>
+      <div id='main'>
+        <div id='content'>
+          <div class='notMobile'>
+            <p class='indented'>
+              Here you will find my notes on my most recent recipes and how they've turned out. I use
+              <a href="http://www.beertools.com/" target="_blank">Beer Tools</a>
+              for the Mac to dig into the science and numbers. Unfortunately that doesn't give me a real nice way to things that
+              happen during the process (mistakes), gravity measurements along the way, and notes on anything and everything else.
+            </p>
+            <p class='indented'>
+              Incidentally this is also a bit of a technology expirement. I'm currently building out this using mostly static
+              content. The content is generated using
+              <a href="http://staticmatic.rubyforge.org/">Staticmatic</a>
+              which allows me to build out the html using Haml which is way nicer to use than html directly. Each of the recipes
+              is essentially just a page in the app that I'll layout using partials for the common elements.
+              In this expirement I'm essentially forgoing a database and all the other overhead since it's easy enough for me to edit
+              the content directly and just push it out to a site.
+            </p>
+            <p class='indented'>
+              The layout of the site should also work well with mobile displays such as iPhones and Android devices. A lesser device
+              (Blackberry) may not look as hot though. If you're using IE, you can go to hell. I really don't care if it works for
+              you at all.
+            </p>
+          </div>
+          <div id='recipes'>
+            <h2>My Recipes</h2>
+            <table>
+              <tbody>
+                <tr>
+                  <td><a href="zhukovs_revenge.html">Zhukov's Revenge</a></td>
+                  <td class='notMobile'>Russian Imperial Stout</td>
+                </tr>
+                <tr>
+                  <td><a href="twohanded_reel.html">Two-Handed Reel</a></td>
+                  <td class='notMobile'>Irish Red Ale</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
