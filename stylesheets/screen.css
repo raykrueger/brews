@@ -1,4 +1,4 @@
-/* line 15 */
+/* line 20 */
 body {
   color: #262626;
   background-color: #262626;
@@ -6,7 +6,7 @@ body {
   font-size: 12pt;
 }
 
-/* line 26 */
+/* line 31 */
 #header {
   color: white;
   height: 50px;
@@ -15,7 +15,7 @@ body {
   margin-bottom: 10px;
 }
 
-/* line 35 */
+/* line 40 */
 #main {
   min-height: 600px;
   height: 100%;
@@ -26,7 +26,7 @@ body {
   border-radius: 5px;
 }
 
-/* line 43 */
+/* line 48 */
 #content {
   width: 95%;
   margin: 0px auto;
@@ -34,12 +34,24 @@ body {
   padding-bottom: 5px;
 }
 
-/* line 52 */
+/* line 57 */
 p.indented {
   text-indent: 1.0em;
 }
 
-/* line 56 */
+/* line 61 */
 td {
   padding-right: 10px;
+}
+
+/* line 65 */
+a.plain {
+  color: white;
+  text-decoration: none;
+}
+
+/* line 69 */
+a.plain:visited {
+  color: white;
+  text-decoration: none;
 }
