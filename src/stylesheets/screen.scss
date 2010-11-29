@@ -12,6 +12,11 @@ $almost-black: #262626;
   margin: 0px auto;
 }
 
+@mixin plain-link {
+  color: white;
+  text-decoration: none;
+}
+
 body {
   color: $almost-black;
   background: {
@@ -57,3 +62,10 @@ td {
   padding-right: 10px;
 }
 
+a.plain {
+  @include plain-link;
+}
+
+a.plain:visited {
+  @include plain-link;
+}
