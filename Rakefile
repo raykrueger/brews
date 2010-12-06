@@ -14,6 +14,8 @@ task :release => :build do
   Dir.chdir("gh-pages") do
     system "rm -rf *"
     system "cp -r ../site/* ."
+    system "git add -A"
+    system "git commit -m 'updated'"
     system "git push origin gh-pages"
   end
 end
