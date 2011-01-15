@@ -1,18 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
   <head>
-    <style type='text/css'>
-      body { font-family: helvetica, verdana, arial; font-size: 10pt;}
-    </style>
+    <title>Homebrewing by Ray Krueger</title>
+    <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+    <link href='stylesheets/screen.css' media='screen' rel='stylesheet' type='text/css' />
+    <link href='stylesheets/iphone.css' media='only screen and (max-device-width: 480px)' rel='stylesheet' type='text/css' />
   </head>
   <body>
-    <h1>
-      StaticMatic::TemplateError
-      in
-      ./src/pages/brown_sugar_mustgo.haml
-    </h1>
-    <p>Illegal nesting: content can't be both given on the same line as %h3 and nested within it.</p>
-    51:   was probably more like 1.066, not 1.056.<br/>52: <br/>53: %h3 Tasting<br/>54:   %p<br/>55:     Wow. I'm not going to lie. This beer is crazy delicious right now. It has a great Brown Ale taste, with a silky<br/>56:     smooth mouthfeel. I get a pretty insane peanut butter finish. This is going to be a tasty beer indeed. Contemplating<br/>57:     oaking half this thing to see what happens.<br/>
-    <h2>Backtrace</h2>
-    (haml):54<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/haml-3.0.21/lib/haml/precompiler.rb:774:in `render_tag'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/haml-3.0.21/lib/haml/precompiler.rb:214:in `process_line'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/haml-3.0.21/lib/haml/precompiler.rb:178:in `precompile'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/haml-3.0.21/lib/haml/engine.rb:121:in `initialize'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/render.rb:110:in `new'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/render.rb:110:in `generate_html_from_template_source'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/render.rb:26:in `generate_html'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/render.rb:40:in `generate_html_with_layout'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/build.rb:13:in `build_html'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/build.rb:10:in `each'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/build.rb:10:in `build_html'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/mixins/build.rb:5:in `build'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/base.rb:71:in `send'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/../lib/staticmatic/base.rb:71:in `run'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/gems/staticmatic-0.11.1/bin/staticmatic:16<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/bin/staticmatic:19:in `load'<br/>/Users/rkrueger/.rvm/gems/ree-1.8.6-20090610/bin/staticmatic:19
+    <div id='site'>
+      <div id='header'>
+        <h1><a class="plain" href="/">Homebrew Notes</a></h1>
+      </div>
+      <div id='main'>
+        <div id='content'>
+          <h2>Brown Sugar Mustgo</h2>
+          <p>
+            This is a totally made up recipe. It is based on what I had leftover from other brew's and the fact that my wife
+            bought too much brown sugar for making christmas cookies. Fun thing here is that my local homebrew shop did not carry
+            brown malt. So I bought 1lb of Maris Otter and roasted it in the oven at 350&deg; for 1 hour.
+          </p>
+          <p>OG: Should be around 1.084 according to Beer Tools.</p>
+          <h3>Mash Ingredients</h3>
+          <table>
+            <tr><td class="mashIngredient">Two-row</td><td>10 lbs</td></tr>
+            <tr><td class="mashIngredient">UK Pale Ale</td><td>8 oz</td></tr>
+            <tr><td class="mashIngredient">Home roasted Brown Malt</td><td>1 lb</td></tr>
+            <tr><td class="mashIngredient">Caramel 40</td><td>10 oz</td></tr>
+            <tr><td class="mashIngredient">Caramel 120</td><td>6 oz</td></tr>
+          </table>
+          <h3>Boil Additions</h3>
+          <table>
+            <tr><td class="boilAddition">Kent Golding</td><td class="notMobile">5%</td><td class="boilAmount">2 oz</td><td>60 min</td></tr>
+            <tr><td class="boilAddition">Fuggles</td><td class="notMobile">4.1%</td><td class="boilAmount">.75 oz</td><td>15 min</td></tr>
+            <tr><td class="boilAddition">Kent Golding</td><td class="notMobile">5%</td><td class="boilAmount">.75 oz</td><td>0 min</td></tr>
+          </table>
+          <h3>Yeast</h3>
+          <p>Wyeast 1056 American Ale</p>
+          <hr />
+          <h2>Brew Day 01-02-2011</h2>
+          <h3>Mash</h3>
+          <p>
+            <ul>
+              <li>Nailed my mash in temp of 154&deg; and the temp is holding strong.</li>
+              <li>Pre-boil gravity is 1.020, around 61% efficiency which is shitty.</li>
+              <li>Post boil gravity (including brown sugar) is 1.056, well short of what the calculations called for.</li>
+            </ul>
+          </p>
+          <h3>Boil</h3>
+          <p>
+            <ul>
+              <li>
+                Nothing eventful to report here. Other than getting burned a few times trying to get the 2lb bag of dark brown sugar
+                into the kettle.
+              </li>
+            </ul>
+          </p>
+          <p>
+            Overall brew day went well. I think my efficiency problems are due to a lack of stirring. I only bothered to stir
+            the mash like once in the hour it was resting. I was focused on not messing with the mash and maintaining temp and
+            avoided opening the tun too much. Now that I know my heat can remain steady I'll stir a lot more next time.
+          </p>
+          <h2>Taste and Measure 01-15-2011</h2>
+          <h3>Measurement Drama</h3>
+          <p>
+            First discovery is that my hydrometer is a piece of shit. It was way way off, and pushing my measurements way down.
+            After reacalibrating it my final gravity came in at 1.010. With how far off my hydrometer was I'm going to say my OG
+            was probably more like 1.066, not 1.056.
+          </p>
+          <h3>Tasting</h3>
+          <p>
+            Wow. I'm not going to lie. This beer is crazy delicious right now. It has a great Brown Ale taste, with a silky
+            smooth mouthfeel. I get a pretty insane peanut butter finish. This is going to be a tasty beer indeed. Contemplating
+            oaking half this thing to see what happens.
+          </p>
+        </div>
+      </div>
+    </div>
+    <script src='http://www.assoc-amazon.com/s/link-enhancer?tag=mybrenot-20&amp;o=1' type='text/javascript'></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1099984-6']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
   </body>
 </html>
