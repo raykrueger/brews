@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class='notMobile'>
+  <p>
+  Here you will find my notes on my most recent recipes and how they've turned out. I use
+  <a href="http://www.beertools.com/" target="_blank">Beer Tools</a>
+  for the Mac to dig into the science and numbers.
+  </p>
+</div>
+<div id='recipes'>
+  <h2>My Recipes</h2>
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> &raquo; {{ post.style }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
