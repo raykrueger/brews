@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Recursive</title>
+  <link href="http://brewedby.me/feed/" rel="self"/>
+  <link href="http://brewedby.me/"/>
+  <updated>2011-07-24T13:01:06-05:00</updated>
+  <id>http://brewedby.me/</id>
+  <author>
+    <name>Recursive</name>
+    <email>mail@brewedby.me</email>
+  </author>
+
+  
+  <entry>
+    <title>Cascadian Dark Ale</title>
+    <link href="http://brewedby.me/2011/07/10/cascadian-dark-ale.html"/>
+    <updated>2011-07-10T00:00:00-05:00</updated>
+    <id>http://brewedby.me/2011/07/10/cascadian-dark-ale</id>
+    <content type="html">&lt;div style=&quot;font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif&quot;&gt;
+&lt;h2&gt;Cascadian Dark Ale&lt;/h2&gt;
+&lt;p&gt;&lt;span  style=&quot;font-size: 14px&quot;&gt;23-A Specialty Beer&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;&lt;img src=&quot;http://www.beertools.com/images/colors/24.jpg&quot; alt=&quot;BeerTools Pro Color Graphic&quot; border=&quot;0&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Size:&lt;/span&gt; 5.52 gal&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Efficiency:&lt;/span&gt; 75.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Attenuation:&lt;/span&gt; 75.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Calories:&lt;/span&gt; 223.46 kcal per 12.0 fl oz
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Original Gravity:&lt;/span&gt; 1.067 (1.026 - 1.120)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;======&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Terminal Gravity:&lt;/span&gt; 1.017 (0.995 - 1.035)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=======&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Color:&lt;/span&gt; 24.92 (1.0 - 50.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=======&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Alcohol:&lt;/span&gt; 6.6% (2.5% - 14.5%)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=====&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;==========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Bitterness:&lt;/span&gt; 95.7 (0.0 - 100.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===============&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;h3&gt;Ingredients:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+11.5 lb 2-Row Brewers Malt&lt;br&gt;
+0.5 lb Caramel Malt 80L&lt;br&gt;
+0.375 lb Carafa Special® TYPE III&lt;br&gt;
+0.375 lb Chocolate Malt&lt;br&gt;
+1.0 oz Summit (17.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 60 min&lt;/span&gt;&lt;br&gt;
+1.0 oz Chinook (13.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 15 min&lt;/span&gt;&lt;br&gt;
+1.0 oz Centennial (10.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 10 min&lt;/span&gt;&lt;br&gt;
+1.0 oz Cascade (5.5%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 5 min&lt;/span&gt;&lt;br&gt;
+1.0 oz Centennial (10.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 0 min&lt;/span&gt;&lt;br&gt;
+1.0 lb Corn Sugar&lt;br&gt;
+1.0 oz Cascade (5.5%) - &lt;span style=&quot;font-style: italic&quot;&gt;added dry to secondary fermenter&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;h3&gt;Schedule:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Ambient Air:&lt;/span&gt; 70.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Source Water:&lt;/span&gt; 60.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Elevation:&lt;/span&gt; 0.0 m
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+00:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Mash In&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Liquor: 4.0 gal; Strike: 164.54 °F; Target: 152.0 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Sach Rest&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Rest: 60 min; Final: 151.2 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Batch Sparge&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;First Runnings: 0.0 gal sparge @ 168.0 °F, 0.0 min; Sparge: 4.61 gal sparge @ 168.0 °F, 0.0 min; Total Runoff: 7.02 gal&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 10px&quot;&gt;Results generated by &lt;span style=&quot;font-weight: bold&quot;&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;BeerTools Pro 1.5.17&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Turtle Head Rye Pale Ale</title>
+    <link href="http://brewedby.me/2011/05/15/turtle-head-rye-pale-ale.html"/>
+    <updated>2011-05-15T00:00:00-05:00</updated>
+    <id>http://brewedby.me/2011/05/15/turtle-head-rye-pale-ale</id>
+    <content type="html">&lt;div style=&quot;font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif&quot;&gt;
+&lt;h2&gt;Turtle Head Rye Pale Ale&lt;/h2&gt;
+&lt;p&gt;&lt;span  style=&quot;font-size: 14px&quot;&gt;10-A American Pale Ale&lt;/span&gt;&lt;br&gt;
+&lt;span style=&quot;font-weight: bold; font-size: 12px&quot;&gt;Date:&lt;/span&gt; 5/15/11&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;&lt;img src=&quot;http://www.beertools.com/images/colors/09.jpg&quot; alt=&quot;BeerTools Pro Color Graphic&quot; border=&quot;0&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Size:&lt;/span&gt; 5.5 gal&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Efficiency:&lt;/span&gt; 75.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Attenuation:&lt;/span&gt; 75.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Calories:&lt;/span&gt; 196.78 kcal per 12.0 fl oz
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Original Gravity:&lt;/span&gt; 1.059 (1.045 - 1.060)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;==============&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Terminal Gravity:&lt;/span&gt; 1.015 (1.010 - 1.015)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===============&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Color:&lt;/span&gt; 9.8 (5.0 - 14.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=======&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Alcohol:&lt;/span&gt; 5.81% (4.5% - 6.2%)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;============&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Bitterness:&lt;/span&gt; 39.5 (30.0 - 45.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;==========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=====&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;h3&gt;Ingredients:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+8.0 lb 2-Row Brewers Malt&lt;br&gt;
+3.0 lb Rye Malt&lt;br&gt;
+0.8 lb Munich TYPE II&lt;br&gt;
+0.4 lb Victory® Malt&lt;br&gt;
+0.4 lb Honey Malt&lt;br&gt;
+0.55 oz Magnum (13.4%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 60 min&lt;/span&gt;&lt;br&gt;
+0.66 oz Fuggle (3.6%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 30 min&lt;/span&gt;&lt;br&gt;
+0.5 oz Goldings (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 20 min&lt;/span&gt;&lt;br&gt;
+0.5 oz Goldings (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 10 min&lt;/span&gt;&lt;br&gt;
+0.5 oz Cascade (5.5%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 1 min&lt;/span&gt;&lt;br&gt;
+1.0 oz Amarillo (8.5%) - &lt;span style=&quot;font-style: italic&quot;&gt;added dry to secondary fermenter&lt;/span&gt;&lt;br&gt;
+1 ea WYeast 1272 American Ale II&lt;br&gt;
+&lt;/p&gt;
+&lt;h3&gt;Schedule:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Ambient Air:&lt;/span&gt; 70.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Source Water:&lt;/span&gt; 60.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Elevation:&lt;/span&gt; 0.0 m
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+00:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Mash In&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Liquor: 4.0 gal; Strike: 167.45 °F; Target: 154.0 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Sac Rest&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Rest: 60 min; Final: 154.0 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Batch Sparge&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;First Runnings: 0.0 gal sparge @ 168.0 °F, 0.0 min; Sparge: 5.0 gal sparge @ 168.0 °F, 0.0 min; Total Runoff: 7.18 gal&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;h3&gt;Notes&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px; font-style: italic&quot;&gt;Mash at 153&lt;/p&gt;
+&lt;p style=&quot;font-size: 10px&quot;&gt;Results generated by &lt;span style=&quot;font-weight: bold&quot;&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;BeerTools Pro 1.5.17&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>630 Suburban Wheat Ale</title>
+    <link href="http://brewedby.me/2011/04/30/630-suburban-wheat-ale.html"/>
+    <updated>2011-04-30T00:00:00-05:00</updated>
+    <id>http://brewedby.me/2011/04/30/630-suburban-wheat-ale</id>
+    <content type="html">&lt;div style=&quot;font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif&quot;&gt;
+  &lt;h2&gt;630 Suburban Wheat Ale&lt;/h2&gt;
+  &lt;p&gt;&lt;span  style=&quot;font-size: 14px&quot;&gt;6-D American Wheat or Rye Beer&lt;/span&gt;&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold; font-size: 12px&quot;&gt;Author:&lt;/span&gt; Ray Krueger&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold; font-size: 12px&quot;&gt;Date:&lt;/span&gt; 4/30/11&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;&lt;img src=&quot;http://www.beertools.com/images/colors/04.jpg&quot; alt=&quot;BeerTools Pro Color Graphic&quot; border=&quot;0&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Size:&lt;/span&gt; 5.5 gal&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Efficiency:&lt;/span&gt; 73.0%&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Attenuation:&lt;/span&gt; 75.0%&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Calories:&lt;/span&gt; 145.65 kcal per 12.0 fl oz
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Original Gravity:&lt;/span&gt; 1.044 (1.040 - 1.055)&lt;br&gt;
+  &lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;====&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Terminal Gravity:&lt;/span&gt; 1.011 (1.008 - 1.013)&lt;br&gt;
+  &lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;======&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Color:&lt;/span&gt; 4.03 (3.0 - 6.0)&lt;br&gt;
+  &lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=====&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;==========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Alcohol:&lt;/span&gt; 4.31% (4.0% - 5.5%)&lt;br&gt;
+  &lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;============&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Bitterness:&lt;/span&gt; 25.1 (15.0 - 30.0)&lt;br&gt;
+  &lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;==========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=====&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+  &lt;/p&gt;
+  &lt;h3&gt;Ingredients:&lt;/h3&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  4.71 lb Pale Wheat Malt&lt;br&gt;
+  2.36 lb 2-Row Brewers Malt&lt;br&gt;
+  2.36 lb Pale Ale Malt&lt;br&gt;
+  0.5 oz Citra (13.4%) - &lt;span style=&quot;font-style: italic&quot;&gt;added first wort, boiled 60 min&lt;/span&gt;&lt;br&gt;
+  0.25 oz Citra (13.4%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 5 min&lt;/span&gt;&lt;br&gt;
+  0.25 oz Citra (13.4%) - &lt;span style=&quot;font-style: italic&quot;&gt;added dry to primary fermenter&lt;/span&gt;&lt;br&gt;
+  1 ea WYeast 1010 American Wheat&lt;br&gt;
+  &lt;/p&gt;
+  &lt;h3&gt;Schedule:&lt;/h3&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Ambient Air:&lt;/span&gt; 70.0 &amp;deg;F&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Source Water:&lt;/span&gt; 60.0 &amp;deg;F&lt;br&gt;
+  &lt;span style=&quot;font-weight: bold&quot;&gt;Elevation:&lt;/span&gt; 0.0 m
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 12px&quot;&gt;
+  00:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Mash In&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Liquor: 3.0 gal; Strike: 140.19 &amp;deg;F; Target: 131.0 &amp;deg;F&lt;/span&gt;&lt;br&gt;
+  00:13:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Protein Rest&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Rest: 10 min; Final: 131.0 &amp;deg;F&lt;/span&gt;&lt;br&gt;
+  00:14:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Raise to 152&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Water: 1.21 gal; Temperature: 212 &amp;deg;F; Target: 152 &amp;deg;F&lt;/span&gt;&lt;br&gt;
+  01:14:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Sac Rest&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Rest: 60 min; Final: 152.0 &amp;deg;F&lt;/span&gt;&lt;br&gt;
+  01:14:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Batch Sparge&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;First Runnings: 0.0 gal sparge @ 168.0 &amp;deg;F, 0.0 min; Once: 4.12 gal sparge @ 168.0 &amp;deg;F, 0.0 min; Total Runoff: 6.35 gal&lt;/span&gt;&lt;br&gt;
+  &lt;/p&gt;
+  &lt;p style=&quot;font-size: 10px&quot;&gt;Results generated by &lt;span style=&quot;font-weight: bold&quot;&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;BeerTools Pro 1.5.15&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Director's Cut</title>
+    <link href="http://brewedby.me/2011/03/20/directors-cut.html"/>
+    <updated>2011-03-20T00:00:00-05:00</updated>
+    <id>http://brewedby.me/2011/03/20/directors-cut</id>
+    <content type="html">&lt;div style=&quot;font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif&quot;&gt;
+&lt;h2&gt;Director's Cut&lt;/h2&gt;
+&lt;p&gt;&lt;span  style=&quot;font-size: 14px&quot;&gt;8-C Extra Special/Strong Bitter (English Pale Ale)&lt;/span&gt;&lt;br&gt;
+&lt;span style=&quot;font-weight: bold; font-size: 12px&quot;&gt;Author:&lt;/span&gt; Ray Krueger&lt;br&gt;
+&lt;span style=&quot;font-weight: bold; font-size: 12px&quot;&gt;Date:&lt;/span&gt; 3/20/11&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;&lt;img src=&quot;http://www.beertools.com/images/colors/14.jpg&quot; alt=&quot;BeerTools Pro Color Graphic&quot; border=&quot;0&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Size:&lt;/span&gt; 5.5 gal&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Efficiency:&lt;/span&gt; 70.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Attenuation:&lt;/span&gt; 75.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Calories:&lt;/span&gt; 225.64 kcal per 12.0 fl oz
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Original Gravity:&lt;/span&gt; 1.068 (1.048 - 1.060)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;================&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Terminal Gravity:&lt;/span&gt; 1.017 (1.010 - 1.016)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;================&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;==&lt;/span&gt;&lt;span style=&quot;color: #CC0000; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;=====|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Color:&lt;/span&gt; 14.86 (6.0 - 18.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;====&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Alcohol:&lt;/span&gt; 6.67% (4.6% - 6.2%)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;================&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;====&lt;/span&gt;&lt;span style=&quot;color: #CC0000; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;===|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Bitterness:&lt;/span&gt; 49.9 (30.0 - 50.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===============&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;h3&gt;Ingredients:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+11.0 lb 2-Row Brewers Malt&lt;br&gt;
+1.6 lb Munich 10L Malt&lt;br&gt;
+1.4 lb White Wheat Malt&lt;br&gt;
+1.1 lb Crystal Malt 60°L&lt;br&gt;
+1.0 oz Roasted Barley&lt;br&gt;
+1.0 oz Willamette (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 60 min&lt;/span&gt;&lt;br&gt;
+0.16 oz Horizon (12.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 60 min&lt;/span&gt;&lt;br&gt;
+0.125 oz Cascade (5.5%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 30 min&lt;/span&gt;&lt;br&gt;
+0.75 oz Centennial (10.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 30 min&lt;/span&gt;&lt;br&gt;
+0.5 oz Willamette (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 30 min&lt;/span&gt;&lt;br&gt;
+0.25 oz Centennial (10.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 1 min&lt;/span&gt;&lt;br&gt;
+0.25 oz Liberty (4.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 1 min&lt;/span&gt;&lt;br&gt;
+1 ea WYeast 1968 London ESB Ale™&lt;br&gt;
+&lt;/p&gt;
+&lt;h3&gt;Schedule:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Ambient Air:&lt;/span&gt; 70.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Source Water:&lt;/span&gt; 60.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Elevation:&lt;/span&gt; 0.0 m
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+00:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Mash In&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Liquor: 5.0 gal; Strike: 168.95 °F; Target: 156.0 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Sach Rest&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Rest: 60 min; Final: 155.3 °F&lt;/span&gt;&lt;br&gt;
+01:18:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Sparge&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;First Runnings: 0.0 gal sparge @ 168.0 °F, 0.0 min; Batch Sparge: 3.96 gal sparge @ 168.0 °F, 15 min; Total Runoff: 7.09 gal&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 10px&quot;&gt;Results generated by &lt;span style=&quot;font-weight: bold&quot;&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;BeerTools Pro 1.5.17&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Easy Ryeder</title>
+    <link href="http://brewedby.me/2011/01/29/easy-ryeder.html"/>
+    <updated>2011-01-29T00:00:00-06:00</updated>
+    <id>http://brewedby.me/2011/01/29/easy-ryeder</id>
+    <content type="html">&lt;h2&gt;Easy Ryeder&lt;/h2&gt;
+&lt;p&gt;
+Ryed up American Pale Ale with a touch of rye whiskey added to the boil.
+Half of this batch will be aged with medium-toast American oak soaked in
+Old Overholt Straight Rye Whiskey. The oak will get the rye whiskey soak for one week
+and then get added to the fermenter for a few weeks.
+&lt;/p&gt;
+&lt;p&gt;OG: 1.042&lt;/p&gt;
+&lt;h3&gt;Mash Ingredients&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;2-Row Malt&lt;/td&gt;&lt;td&gt;4 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Pale Ale Malt&lt;/td&gt;&lt;td&gt;4 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Rye Malt&lt;/td&gt;&lt;td&gt;3 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Caramel Vienne&lt;/td&gt;&lt;td&gt;10 oz&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Caramel 20&lt;/td&gt;&lt;td&gt;5 oz&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Boil Additions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Magnum&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;13.7%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;0.75 oz&lt;/td&gt;&lt;td&gt;60 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Centenial&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;10%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;0.75 oz&lt;/td&gt;&lt;td&gt;15 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Cascade&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;5.4%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;0.75&lt;/td&gt;&lt;td&gt;5 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Old Overholt Rye Whiskey&lt;/td&gt;
+    &lt;td&gt;2 oz&lt;/td&gt;
+    &lt;td&gt;30 min&lt;/td&gt;
+    &lt;td class='notMobile'&gt;40%&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Instructions&lt;/h3&gt;
+&lt;p&gt;Mash at 154&amp;deg;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Brew Day 01-29-2011&lt;/h2&gt;
+&lt;h3&gt;The Mash&lt;/h3&gt;
+&lt;p&gt;
+Really well executed. Temp came in a little low, had to top it off with some boiling water.
+&lt;/p&gt;
+&lt;h3&gt;The Boil&lt;/h3&gt;
+&lt;p&gt;Straight 60 minute boil here. Dosed the brew with a bit of whiskey on a whim, we'll see how that turns out.&lt;/p&gt;
+&lt;h3&gt;Gravity&lt;/h3&gt;
+&lt;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pre-boil 1.030&lt;/li&gt;
+  &lt;li&gt;Pre-pitching 1.038&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Brown Sugar Mustgo</title>
+    <link href="http://brewedby.me/2011/01/02/brown-sugar-mustgo.html"/>
+    <updated>2011-01-02T00:00:00-06:00</updated>
+    <id>http://brewedby.me/2011/01/02/brown-sugar-mustgo</id>
+    <content type="html">&lt;h2&gt;Brown Sugar Mustgo&lt;/h2&gt;
+&lt;p&gt;
+This is a totally made up recipe. It is based on what I had leftover from other brew's and the fact that my wife
+bought too much brown sugar for making christmas cookies. Fun thing here is that my local homebrew shop did not carry
+brown malt. So I bought 1lb of Maris Otter and roasted it in the oven at 350&amp;deg; for 1 hour.
+&lt;/p&gt;
+&lt;p&gt;OG: Should be around 1.084 according to Beer Tools.&lt;/p&gt;
+&lt;h3&gt;Mash Ingredients&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Two-row&lt;/td&gt;&lt;td&gt;10 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;UK Pale Ale&lt;/td&gt;&lt;td&gt;8 oz&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Home roasted Brown Malt&lt;/td&gt;&lt;td&gt;1 lb&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Caramel 40&lt;/td&gt;&lt;td&gt;10 oz&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Caramel 120&lt;/td&gt;&lt;td&gt;6 oz&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Boil Additions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Kent Golding&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;5%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;2 oz&lt;/td&gt;&lt;td&gt;60 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Fuggles&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;4.1%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;.75 oz&lt;/td&gt;&lt;td&gt;15 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Kent Golding&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;5%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;.75 oz&lt;/td&gt;&lt;td&gt;0 min&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Yeast&lt;/h3&gt;
+&lt;p&gt;Wyeast 1056 American Ale&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Brew Day 01-02-2011&lt;/h2&gt;
+&lt;h3&gt;Mash&lt;/h3&gt;
+&lt;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nailed my mash in temp of 154&amp;deg; and the temp is holding strong.&lt;/li&gt;
+  &lt;li&gt;Pre-boil gravity is 1.020, around 61% efficiency which is shitty.&lt;/li&gt;
+  &lt;li&gt;Post boil gravity (including brown sugar) is 1.056, well short of what the calculations called for.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;h3&gt;Boil&lt;/h3&gt;
+&lt;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  Nothing eventful to report here. Other than getting burned a few times trying to get the 2lb bag of dark brown sugar
+  into the kettle.
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Overall brew day went well. I think my efficiency problems are due to a lack of stirring. I only bothered to stir
+the mash like once in the hour it was resting. I was focused on not messing with the mash and maintaining temp and
+avoided opening the tun too much. Now that I know my heat can remain steady I'll stir a lot more next time.
+&lt;/p&gt;
+&lt;h2&gt;Taste and Measure 01-15-2011&lt;/h2&gt;
+&lt;h3&gt;Measurement Drama&lt;/h3&gt;
+&lt;p&gt;
+First discovery is that my hydrometer is a piece of shit. It was way way off, and pushing my measurements way down.
+After reacalibrating it my final gravity came in at 1.010. With how far off my hydrometer was I'm going to say my OG
+was probably more like 1.066, not 1.056.
+&lt;/p&gt;
+&lt;h3&gt;Tasting&lt;/h3&gt;
+&lt;p&gt;
+Wow. I'm not going to lie. This beer is crazy delicious right now. It has a great Brown Ale taste, with a silky
+smooth mouthfeel. I get a pretty insane peanut butter finish. This is going to be a tasty beer indeed. Contemplating
+oaking half this thing to see what happens.
+&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Two-Hand Reel</title>
+    <link href="http://brewedby.me/2010/11/14/two-hand-reel.html"/>
+    <updated>2010-11-14T00:00:00-06:00</updated>
+    <id>http://brewedby.me/2010/11/14/two-hand-reel</id>
+    <content type="html">&lt;h2&gt;Two-Hand Reel&lt;/h2&gt;
+&lt;p&gt;
+Another recipe out of
+&lt;a href=&quot;http://www.amazon.com/gp/product/0937381926?ie=UTF8&amp;tag=mybrenot-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0937381926&quot;&gt;Brewing Classic Styles&lt;/a&gt;.
+This time it is the Irish red ale recipe, &quot;Ruabeior&quot;.
+&lt;/p&gt;
+&lt;p&gt;OG: 1.060&lt;/p&gt;
+&lt;h3&gt;Mash Ingredients&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;British Pale Ale Malt&lt;/td&gt;&lt;td&gt;11.25 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Caramel 40&lt;/td&gt;&lt;td&gt;6 0z&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Caramel 120&lt;/td&gt;&lt;td&gt;6 oz&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Roasted Barley&lt;/td&gt;&lt;td&gt;6 oz&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Boil Additions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Kent Goldings&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;4.5%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;1.25 oz&lt;/td&gt;&lt;td&gt;60 min&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Yeast&lt;/h3&gt;
+&lt;p&gt;Wyeast 1084 Irish Ale&lt;/p&gt;
+&lt;h3&gt;Instructions&lt;/h3&gt;
+&lt;p&gt;Mash at 154&amp;deg;&lt;/p&gt;
+&lt;p&gt;Carbonate to 2.5 volumes&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Brew Day 11-14-2010&lt;/h2&gt;
+&lt;h3&gt;The Mash&lt;/h3&gt;
+&lt;p&gt;
+All in all this went well. Unfortunately I didn't start the sparge water early enough which left the mash going into
+a 90 minute range. Also, the sparge water (due to the delay) wasn't hot enough. We hit just around 168&amp;deg; in the mash
+tun when it should have been 170&amp;deg;.
+&lt;/p&gt;
+&lt;h3&gt;The Boil&lt;/h3&gt;
+&lt;p&gt;Went with a 90 minute boil to try and bring up the caramelization and bring out a good red hue. We'll see how that works out.&lt;/p&gt;
+&lt;h3&gt;Gravity&lt;/h3&gt;
+&lt;p&gt;OG: Unknown (drunk), FG: 1.010&lt;/p&gt;
+&lt;h2&gt;Bottled 12-05-2010&lt;/h2&gt;
+&lt;p&gt;Using 4oz Corn Sugar to 2.5 volumes of co2&lt;/p&gt;
+&lt;h2&gt;Tasing Notes 12-23-2010&lt;/h2&gt;
+&lt;p&gt;
+Carbonated well now. Initial impression is a bit watery. Continues that way through the middle too unfortunately.
+Has a nice caramel finish though. This isn't rocking my world but it's good.
+&lt;/p&gt;
+&lt;h2&gt;Tasting Notes 01-30-2011&lt;/h2&gt;
+&lt;p&gt;
+Wow this beer has really turned around. Great caramel finish now with a smooth body.
+Amazing what a little bottle time can do.
+&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Zhukov's Revenge</title>
+    <link href="http://brewedby.me/2010/09/26/zhukovs-revenge.html"/>
+    <updated>2010-09-26T00:00:00-05:00</updated>
+    <id>http://brewedby.me/2010/09/26/zhukovs-revenge</id>
+    <content type="html">&lt;h2&gt;Zhukov's Revenge&lt;/h2&gt;
+&lt;p&gt;
+Based on Czar's Revenge from
+&lt;a href=&quot;http://www.amazon.com/gp/product/0937381926?ie=UTF8&amp;tag=mybrenot-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0937381926&quot;&gt;Brewing Classic Styles&lt;/a&gt;.
+You'll need a really big ass mash tun to pull this off. We're talking about 24lbs of grain.
+&lt;/p&gt;
+&lt;p&gt;OG: 1.092&lt;/p&gt;
+&lt;h3&gt;Mash Ingredients&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Maris Otter&lt;/td&gt;&lt;td&gt;20 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Black Barley&lt;/td&gt;&lt;td&gt;1.5 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Special B&lt;/td&gt;&lt;td&gt;1 lb&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;German Caramunich III&lt;/td&gt;&lt;td&gt;.5 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Pale Chocolate Malt&lt;/td&gt;&lt;td&gt;.5 lbs&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;mashIngredient&quot;&gt;Chocolate Malt&lt;/td&gt;&lt;td&gt;.5 lbs&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Boil Additions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Magnum&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;13%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;1 oz&lt;/td&gt;&lt;td&gt;60 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Kent Goldings&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;4.5%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;2 oz&lt;/td&gt;&lt;td&gt;10 min&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td class=&quot;boilAddition&quot;&gt;Kent Goldings&lt;/td&gt;&lt;td class=&quot;notMobile&quot;&gt;4.5%&lt;/td&gt;&lt;td class=&quot;boilAmount&quot;&gt;1 oz&lt;/td&gt;&lt;td&gt;1 min&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Yeast&lt;/h3&gt;
+&lt;p&gt;Wyeast 1056 American Ale&lt;/p&gt;
+&lt;h3&gt;Instructions&lt;/h3&gt;
+&lt;p&gt;Mash at 154&amp;deg;&lt;/p&gt;
+&lt;p&gt;Carbonate to 2.0-2.5 volumes&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Brew Day 09-26-2010&lt;/h2&gt;
+&lt;h3&gt;The Mash&lt;/h3&gt;
+&lt;p&gt;
+I totally screwed up the mash on this. I didn't use a calculator to figure out the mash and sparge water volumes
+and temperatures. My dough-in temp was way low. I kept adding hot water till I couldn't add any more. Once it was
+too full I started draining wort, boiling it, and putting it back in until I got my temp. Then I let it mash. A
+hacked up decoction mash almost.
+&lt;/p&gt;
+&lt;h3&gt;Gravity&lt;/h3&gt;
+&lt;p&gt;OG: 1.092, FG: 1.020&lt;/p&gt;
+&lt;h3&gt;Bottled 10-10-2010&lt;/h3&gt;
+&lt;p&gt;Primed using 3.4 oz of corn sugar&lt;/p&gt;
+&lt;h3&gt;Tasting Notes&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  &lt;b&gt;11-25-2010&lt;/b&gt;
+  After almost 2 months in the bottle this beer is really coming in great. Huge roast flavor with just
+  the right mouthfeel. Not syrupy sweet and not dry, right down the middle.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  
+
+</feed>
+
