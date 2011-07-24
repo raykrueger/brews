@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Recursive</title>
+  <title>Homebrewing by Ray Krueger</title>
   <link href="http://brewedby.me/feed/" rel="self"/>
   <link href="http://brewedby.me/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://brewedby.me/</id>
   <author>
-    <name>Recursive</name>
-    <email>mail@brewedby.me</email>
+    <name>Ray Krueger</name>
+    <email>raykrueger@gmail.com</email>
   </author>
 
   {% for post in site.posts %}
