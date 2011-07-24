@@ -1,0 +1,14 @@
+/* line 1 */
+#header {
+  width: 100%;
+}
+
+/* line 5 */
+#main {
+  width: 100%;
+}
+
+/* line 9 */
+.notMobile {
+  display: none;
+}
