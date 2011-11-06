@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Homebrewing by Ray Krueger</title>
+  <title>Recursive</title>
   <link href="http://brewedby.me/feed/" rel="self"/>
   <link href="http://brewedby.me/"/>
-  <updated>2011-07-24T13:02:40-05:00</updated>
+  <updated>2011-07-24T13:01:06-05:00</updated>
   <id>http://brewedby.me/</id>
   <author>
-    <name>Ray Krueger</name>
-    <email>raykrueger@gmail.com</email>
+    <name>Recursive</name>
+    <email>mail@brewedby.me</email>
   </author>
 
   
