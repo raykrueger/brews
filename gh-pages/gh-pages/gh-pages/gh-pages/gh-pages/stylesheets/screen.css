@@ -1,0 +1,57 @@
+/* line 20 */
+body {
+  color: #262626;
+  background-color: #262626;
+  font-family: helvetica, arial, freesans, clean, sans-serif;
+  font-size: 12pt;
+}
+
+/* line 31 */
+#header {
+  color: white;
+  height: 50px;
+  width: 920px;
+  margin: 0px auto;
+  margin-bottom: 10px;
+}
+
+/* line 40 */
+#main {
+  min-height: 600px;
+  height: 100%;
+  background-color: white;
+  width: 920px;
+  margin: 0px auto;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 48 */
+#content {
+  width: 95%;
+  margin: 0px auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* line 57 */
+p.indented {
+  text-indent: 1.0em;
+}
+
+/* line 61 */
+td {
+  padding-right: 10px;
+}
+
+/* line 65 */
+a.plain {
+  color: white;
+  text-decoration: none;
+}
+
+/* line 69 */
+a.plain:visited {
+  color: white;
+  text-decoration: none;
+}
