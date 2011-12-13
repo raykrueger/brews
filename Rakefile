@@ -1,5 +1,7 @@
 require "bundler/setup"
 
+task :default => [:release]
+
 task :build do
   system "jekyll --no-server --no-auto"
 end
