@@ -4,13 +4,76 @@
   <title>Homebrewing by Ray Krueger</title>
   <link href="http://brewedby.me/feed/" rel="self"/>
   <link href="http://brewedby.me/"/>
-  <updated>2011-12-12T19:48:06-06:00</updated>
+  <updated>2012-01-06T15:13:21-06:00</updated>
   <id>http://brewedby.me/</id>
   <author>
     <name>Ray Krueger</name>
     <email>raykrueger@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <title>The Mathematician</title>
+    <link href="http://brewedby.me/2011/11/27/the-mathematician.html"/>
+    <updated>2011-11-27T00:00:00-06:00</updated>
+    <id>http://brewedby.me/2011/11/27/the-mathematician</id>
+    <content type="html">&lt;div style=&quot;font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif&quot;&gt;
+&lt;h2&gt;Porter&lt;/h2&gt;
+&lt;p&gt;&lt;span  style=&quot;font-size: 14px&quot;&gt;12-B Robust Porter&lt;/span&gt;&lt;br&gt;
+&lt;span style=&quot;font-weight: bold; font-size: 12px&quot;&gt;Date:&lt;/span&gt; 11/27/11&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;&lt;img src=&quot;http://www.beertools.com/images/colors/28.jpg&quot; alt=&quot;BeerTools Pro Color Graphic&quot; border=&quot;0&quot;&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Size:&lt;/span&gt; 5.5 gal&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Efficiency:&lt;/span&gt; 68%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Attenuation:&lt;/span&gt; 75.0%&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Calories:&lt;/span&gt; 185.36 kcal per 12.0 fl oz
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Original Gravity:&lt;/span&gt; 1.056 (1.048 - 1.065)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=======&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Terminal Gravity:&lt;/span&gt; 1.014 (1.012 - 1.016)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=======&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Color:&lt;/span&gt; 28.53 (22.0 - 35.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;========&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=======&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Alcohol:&lt;/span&gt; 5.48% (4.8% - 6.5%)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;======&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;=========&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Bitterness:&lt;/span&gt; 26.6 (25.0 - 50.0)&lt;br&gt;
+&lt;span style=&quot;color: #999999&quot;&gt;|========&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #009900; font-weight: bold&quot;&gt;#&lt;/span&gt;&lt;span style=&quot;color: #000066&quot;&gt;===============&lt;/span&gt;&lt;span style=&quot;color: #999999&quot;&gt;========|&lt;/span&gt;
+&lt;/p&gt;
+&lt;h3&gt;Ingredients:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+10 lb Pale Ale&lt;br&gt;
+1.0 lb Brown Malt&lt;br&gt;
+1.0 lb 2-Row Caramel Malt 40L&lt;br&gt;
+12 oz Chocolate&lt;br&gt;
+1.0 oz Willamette (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 60 m&lt;/span&gt;&lt;br&gt;
+0.50 oz Willamette (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 30 m&lt;/span&gt;&lt;br&gt;
+0.50 oz Willamette (5.0%) - &lt;span style=&quot;font-style: italic&quot;&gt;added during boil, boiled 10 m&lt;/span&gt;&lt;br&gt;
+1.0 ea White Labs WLP013 London Ale&lt;br&gt;
+&lt;/p&gt;
+&lt;h3&gt;Schedule:&lt;/h3&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Ambient Air:&lt;/span&gt; 70.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Source Water:&lt;/span&gt; 60.0 °F&lt;br&gt;
+&lt;span style=&quot;font-weight: bold&quot;&gt;Elevation:&lt;/span&gt; 0.0 m
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 12px&quot;&gt;
+00:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Mash In&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Liquor: 4.0 gal; Strike: 166.07 °F; Target: 152 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Sacc Rest&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;Rest: 60.0 m; Final: 151.2 °F&lt;/span&gt;&lt;br&gt;
+01:03:00 &lt;span style=&quot;font-weight: bold&quot;&gt;Batch Sparge&lt;/span&gt; - &lt;span style=&quot;font-style: italic&quot;&gt;First Runnings: 0.0 gal sparge @ 168.0 °F, 0.0 m; Sparge: 4.68 gal sparge @ 168 °F, 0.0 m; Total Runoff: 7.09 gal&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p style=&quot;font-size: 10px&quot;&gt;Results generated by &lt;span style=&quot;font-weight: bold&quot;&gt;&lt;a href=&quot;http://www.beertools.com/&quot;&gt;BeerTools Pro 1.5.18&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Third Eye</title>
